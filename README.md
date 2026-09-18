@@ -97,7 +97,7 @@ Deployed a dynamic movie web application using a containerized architecture and 
 
 **Technologies:** Docker • GitHub Actions • Amazon ECR • EC2 • Ubuntu • Java Spring Boot • MongoDB Atlas • Portainer
 
-🔗 [View Project] (https://github.com/bisolaadebola/netflix-movie-frontend.git)
+🔗 View Project
 
 ---
 
