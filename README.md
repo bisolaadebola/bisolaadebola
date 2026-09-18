@@ -77,7 +77,7 @@ Built and configured a Kubernetes environment using **K3s and Ubuntu Linux**, co
 
 **Technologies:** Kubernetes • K3s • Ubuntu • Linux • Portainer • Git • GitHub
 
-🔗 [View Project] (https://github.com/bisolaadebola/K3s-Kubernetes-Multi-Node-Cluster.git)
+🔗 [View Project](https://github.com/bisolaadebola/K3s-Kubernetes-Multi-Node-Cluster.git)
 
 ---
 
