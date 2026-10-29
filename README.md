@@ -135,7 +135,7 @@ Integrated source code quality analysis into a GitHub Actions workflow using Son
 - Troubleshooting YAML configuration and source paths
 - Integrating automated code analysis into development workflows
 
-🔗 **Repository:** Add your SonarQube repository URL here.
+🔗 **Repository:** https://github.com/bisolaadebola/terraform-sonarqube-aws.git.
 
 ### 2. 🏗️ Terraform AWS VPC Infrastructure
 
