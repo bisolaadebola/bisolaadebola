@@ -2,7 +2,7 @@
 
 ### ☁️ Cloud Engineer | AWS Certified Cloud Practitioner | DevOps | DevSecOps | Terraform | Kubernetes | CI/CD | GitOps
 
-[![AWS Certified Cloud Practitioner](./aws-cloud-practitioner.png.png)](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
+[![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/bisolaadebola/bisolaadebola/main/aws-cloud-practitioner.png.png)](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
 
 **[Verify my AWS certification on Credly](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)**
 
