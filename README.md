@@ -1,221 +1,291 @@
 # Hi, I'm Bisola Adebola 👋
 
-### ☁️ Cloud Engineer | AWS | DevOps | Terraform | Kubernetes | CI/CD
+### ☁️ Cloud Engineer | AWS Certified Cloud Practitioner | DevOps | DevSecOps | Terraform | Kubernetes | CI/CD | GitOps
 
-I'm a Cloud Engineer in transition from **8+ years of experience in Human Resources and People Operations** into Cloud Computing and DevOps Engineering.
+[![AWS Certified Cloud Practitioner](images/aws-cloud-practitioner.png)](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
 
-I build hands-on projects to develop my skills in cloud infrastructure, Infrastructure as Code (IaC), containerization, CI/CD automation, GitOps, and Kubernetes.
+**[Verify my AWS certification on Credly](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)**
 
-My focus is on learning how to **provision infrastructure, deploy applications, automate workflows, troubleshoot systems, and build reliable and secure cloud environments**.
+I'm a Cloud Engineer transitioning from **8+ years of experience in Human Resources and People Operations** into Cloud Computing, DevOps, and DevSecOps Engineering.
 
-I'm continuously expanding my practical experience with AWS, Linux, Terraform, Docker, Kubernetes, GitHub Actions, and Argo CD while documenting my progress through real-world projects.
+I learn by building hands-on projects that strengthen my skills in cloud infrastructure, Infrastructure as Code (IaC), containerization, CI/CD automation, Kubernetes orchestration, GitOps, and security integration.
+
+My focus is on provisioning infrastructure, deploying applications, automating workflows, troubleshooting systems, and building reliable and secure cloud environments.
+
+I document my projects, challenges, solutions, and lessons learned to demonstrate practical engineering skills and continuous professional development.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### ☁️ AWS & Cloud Infrastructure
-- Amazon EC2, S3, EBS, and EFS
-- Amazon VPC, subnets, route tables, and route associations
+- Amazon EC2, S3, EBS, EFS, and DynamoDB
+- VPC, public and private subnets, route tables, and routing
 - Internet Gateways and NAT Gateways
-- IAM roles, policies, and permissions
-- Security Groups and cloud networking fundamentals
+- IAM roles, policies, permissions, and access management
+- Security Groups and network security
 - Application Load Balancer (ALB) and Auto Scaling
-- Amazon Route 53 and AWS Certificate Manager (ACM)
-- DynamoDB
-- Multi-AZ architecture and high availability
+- Route 53, DNS, and AWS Certificate Manager (ACM)
+- Multi-AZ architecture, high availability, and fault tolerance
+- Amazon ECR and AWS CLI
 - Cloud infrastructure provisioning and troubleshooting
 
 ### 🏗️ Infrastructure as Code (IaC)
-- Terraform
-- AWS provider and resource configuration
-- Variables, outputs, and resource dependencies
-- `terraform init`, `plan`, `apply`, and `destroy`
-- Terraform state management
-- Provisioning AWS networking and compute infrastructure as code
+- Terraform and AWS provider configuration
+- Variables, outputs, resource dependencies, and workspaces
+- `terraform init`, `fmt`, `validate`, `plan`, `apply`, and `destroy`
+- Terraform state management and resource imports
+- S3 remote backend concepts
+- Provisioning AWS networking and compute resources
+- Terraform workflow automation with GitHub Actions
 
-### 🔄 DevOps, CI/CD & GitOps
+### 🔄 DevOps & CI/CD
 - Git and GitHub
-- GitHub Actions
-- CI/CD workflow automation
-- Argo CD and GitOps fundamentals
-- Automated application build and deployment workflows
-- Amazon Elastic Container Registry (ECR)
-- Version control, branching, and pull requests
+- GitHub Actions workflows
+- CI/CD pipeline automation
+- YAML configuration and workflow troubleshooting
+- Branching, merging, pull requests, and upstream remotes
+- Automated Docker image builds and publishing
+- Amazon ECR integration
+- GitHub repository secrets and environment variables
+- Terraform automation and deployment workflows
 
-### 🐳 Containers & Container Management
-- Docker
-- Container images and containers
-- Docker image builds and registry workflows
-- Amazon ECR
+### 🔐 DevSecOps & Code Quality
+- SonarQube setup and integration
+- Self-hosted SonarQube using Docker Compose
+- Static Application Security Testing (SAST) fundamentals
+- Automated source code quality analysis
+- SonarQube scanner configuration
+- GitHub Actions and SonarQube integration
+- Token and server URL configuration
+- Secure CI/CD secrets management
+- Troubleshooting YAML, source paths, and pipeline failures
+
+### 🐳 Containers
+- Docker and Docker Compose
+- Container images, builds, and runtime management
+- Multi-container application deployment
+- Amazon ECR image registry
 - Portainer Community Edition
-- Containerized application deployment and management
+- Containerized frontend and backend applications
+- Running self-hosted services on AWS EC2
 
 ### ☸️ Kubernetes & Orchestration
-- Kubernetes fundamentals
-- K3s lightweight Kubernetes
+- Kubernetes and K3s
 - Multi-node cluster architecture
 - Control-plane and worker nodes
-- Pods, ReplicaSets, and Deployments
-- StatefulSets and Services
-- ClusterIP and NodePort networking
+- Pods, ReplicaSets, Deployments, and StatefulSets
+- ClusterIP and NodePort Services
 - Kubernetes manifests and YAML
-- Application deployment and troubleshooting
-- Argo CD application delivery and GitOps workflows
+- PersistentVolumes (PV), PersistentVolumeClaims (PVC), and StorageClasses
+- Amazon EFS storage integration fundamentals
+- Workload deployment and troubleshooting
+- Pod scheduling, node connectivity, and container failures
 
-### 🐧 Linux, Networking & Troubleshooting
-- Ubuntu Linux
-- Linux command line and administration fundamentals
-- SSH and remote server management
+### 🚀 GitOps & Continuous Delivery
+- Argo CD installation and configuration
+- Connecting GitHub repositories to Argo CD
+- Declarative Kubernetes application management
+- Git-based deployment workflows
+- Application synchronization and desired-state reconciliation
+- Version-controlled Kubernetes manifests
+
+### 🐧 Linux, Networking & Technical Support
+- Ubuntu Linux and command-line fundamentals
+- SSH and remote server administration
 - File permissions and directory management
-- TCP/IP and networking fundamentals
-- IP addressing and CIDR notation
+- TCP/IP, IP addressing, CIDR, and subnetting
 - DNS, routing, ports, and connectivity troubleshooting
-- Linux-based application and server deployment
+- Linux-based application deployment
+- Log analysis and systematic troubleshooting
+- Technical documentation and incident investigation
 
 ### 📊 Monitoring & Observability
-- Datadog
-- Slack alert notifications
-- Infrastructure monitoring fundamentals
-- Troubleshooting application and infrastructure issues
+- Datadog monitoring fundamentals
+- Infrastructure and application monitoring
+- Slack alert notification concepts
+- Troubleshooting and root-cause investigation
+- High availability and reliability fundamentals
 
-### 💻 Application Deployment & Supporting Technologies
-- Java Spring Boot backend deployment
+### 💻 Supporting Technologies
+- Java Spring Boot
 - MongoDB Atlas
-- Static website hosting with Nginx
-- DNS configuration and domain management
+- Nginx
 - Visual Studio Code
 - MobaXterm
+- GitHub Desktop
+- OpenLens
+- AWS Management Console
 
 ---
 
-## 🚀 Featured Cloud & DevOps Projects
+## 🚀 Featured Cloud, DevOps & DevSecOps Projects
 
-### 1. 🏗️ Terraform AWS VPC Infrastructure
+### 1. 🔐 SonarQube Integration with GitHub Actions
 
-Provisioned AWS networking and compute resources using Terraform, practicing Infrastructure as Code instead of creating every resource manually through the AWS Console.
+Integrated source code quality analysis into a GitHub Actions workflow using SonarQube, focusing on CI/CD configuration and troubleshooting.
 
-**Key technologies:** Terraform • AWS • VPC • Public and Private Subnets • Internet Gateway • NAT Gateways • Route Tables • Security Groups • EC2
+**Technologies:** SonarQube | Docker Compose | GitHub Actions | YAML | CI/CD | GitHub Secrets
 
-**What I practised:**
-- Defining infrastructure in Terraform configuration files
-- Provisioning network resources across Availability Zones
-- Configuring public and private networking
-- Managing Terraform plans, state, and outputs
+**Key learning outcomes:**
+- Configuring SonarQube for source code analysis
+- Connecting a repository to SonarQube
+- Configuring server URLs and authentication tokens
+- Investigating failed GitHub Actions workflows
+- Troubleshooting YAML configuration and source paths
+- Integrating automated code analysis into development workflows
+
+🔗 **Repository:** Add your SonarQube repository URL here.
+
+### 2. 🏗️ Terraform AWS VPC Infrastructure
+
+Provisioned AWS networking and compute resources using Terraform and Infrastructure as Code principles.
+
+**Technologies:** Terraform | AWS | VPC | Subnets | NAT Gateways | Route Tables | Security Groups | EC2
+
+**Key learning outcomes:**
+- Defining infrastructure through Terraform
+- Configuring public and private subnets across Availability Zones
+- Managing resource dependencies and Terraform state
+- Planning infrastructure changes and troubleshooting deployments
 
 🔗 [View Terraform Project](https://github.com/bisolaadebola/terraform-aws-vpc-infrastructure)
 
-### 2. ☸️ Argo CD GitOps Deployment
+### 3. ☸️ Argo CD GitOps Deployment
 
-Installed and configured Argo CD on a Kubernetes environment and connected it to a GitHub repository to manage application deployment through GitOps.
+Installed and configured Argo CD in a Kubernetes environment and connected it to GitHub for GitOps-based application management.
 
-**Key technologies:** Kubernetes • Argo CD • GitOps • GitHub • YAML • AWS EC2
+**Technologies:** Argo CD | Kubernetes | GitHub | GitOps | YAML | AWS EC2
 
-**What I practised:**
-- Connecting a Git repository to Argo CD
-- Defining Kubernetes application resources
-- Managing application deployments through Git
-- Exploring declarative deployment and cluster reconciliation
+**Key learning outcomes:**
+- Installing Argo CD
+- Connecting Git repositories to Argo CD
+- Managing Kubernetes manifests through Git
+- Understanding declarative delivery and reconciliation
+- Configuring external access to the Argo CD server
 
 🔗 [View Argo CD Project](https://github.com/bisolaadebola/argocd-gitops-deployment)
 
-### 3. ☸️ Multi-Node Kubernetes Cluster with K3s
+### 4. ☸️ Multi-Node Kubernetes Cluster with K3s
 
-Installed and configured a multi-node Kubernetes cluster consisting of one control-plane node and three worker nodes.
+Built a Kubernetes cluster consisting of one control-plane node and three worker nodes.
 
-**Key technologies:** Kubernetes • K3s • Ubuntu • Linux • Portainer • AWS EC2
+**Technologies:** K3s | Kubernetes | Linux | Ubuntu | Portainer | AWS EC2
 
-**What I practised:**
-- Cluster installation and worker-node joining
-- Kubernetes cluster management
-- Troubleshooting node connectivity and registration
+**Key learning outcomes:**
+- Installing and configuring a multi-node cluster
+- Joining worker nodes to the control plane
 - Deploying and managing workloads
+- Investigating pod scheduling and container startup issues
+- Documenting installation and troubleshooting procedures
 
 🔗 [View K3s Project](https://github.com/bisolaadebola/k3s-multinode-kubernetes-aws)
 
-### 4. ☁️ Highly Available Web Application Infrastructure on AWS
+### 5. ☁️ Highly Available Web Application Infrastructure on AWS
 
-Built a highly available web infrastructure using AWS networking and compute services, with an emphasis on scalability, fault tolerance, and secure access.
+Built highly available web infrastructure using AWS compute, networking, load balancing, and storage services.
 
-**Key technologies:** AWS • EC2 • VPC • EFS • EBS • Application Load Balancer • Auto Scaling • Route 53 • ACM • Linux • Datadog
+**Technologies:** AWS | EC2 | VPC | EFS | EBS | ALB | Auto Scaling | Route 53 | ACM | Datadog
 
-**What I practised:**
-- Designing cloud infrastructure across Availability Zones
-- Configuring shared storage and load balancing
-- Exploring scalable application infrastructure
-- Working with DNS, HTTPS, and monitoring
+**Key learning outcomes:**
+- Designing infrastructure across Availability Zones
+- Configuring load balancing and Auto Scaling
+- Exploring shared storage and persistent data
+- Configuring DNS and HTTPS
+- Applying monitoring and high-availability concepts
 
 🔗 [View High Availability Project](https://github.com/bisolaadebola/BFitHub-AWS-High-Availability)
 
-### 5. 🎬 Dynamic Full-Stack Movie Web Application
+### 6. 🎬 Dynamic Full-Stack Movie Web Application
 
-Deployed a dynamic movie web application using containerization and an automated build-and-deployment workflow.
+Deployed a dynamic movie application using Docker containers and an automated build-and-deployment workflow.
 
-**Key technologies:** Docker • GitHub Actions • Amazon ECR • AWS EC2 • Ubuntu • Java Spring Boot • MongoDB Atlas • Portainer
+**Technologies:** Docker | GitHub Actions | Amazon ECR | AWS EC2 | Java Spring Boot | MongoDB Atlas | Portainer
 
-**What I practised:**
+**Key learning outcomes:**
 - Containerizing application components
-- Building CI/CD workflows with GitHub Actions
-- Publishing container images to Amazon ECR
-- Deploying and managing containers on a server
+- Automating image builds with GitHub Actions
+- Publishing images to Amazon ECR
+- Deploying containers to an AWS-hosted server
+- Working with frontend, backend, and database components
 
 🔗 [View Frontend Repository](https://github.com/bisolaadebola/netflix-movie-frontend)
 
-### 6. ☸️ Kubernetes Manifests & Workload Management
+### 7. ☸️ Kubernetes Manifests & Workload Management
 
-Practised defining and managing Kubernetes resources using YAML manifests, including application workloads and service networking.
+Practised declarative Kubernetes resource management using YAML manifests for workloads, networking, and persistent storage.
 
-**Key technologies:** Kubernetes • YAML • Pods • Deployments • ReplicaSets • StatefulSets • Services • NodePort
+**Technologies:** Kubernetes | YAML | Pods | Deployments | ReplicaSets | StatefulSets | Services | PVC | EFS
 
-**What I practised:**
-- Defining Kubernetes resources declaratively
+**Key learning outcomes:**
+- Defining resources declaratively
 - Understanding workload controllers and service discovery
-- Exposing applications through Kubernetes Services
-- Documenting deployment steps and troubleshooting issues
+- Exposing applications through Services
+- Exploring persistent storage configurations
+- Troubleshooting manifest and workload errors
 
 🔗 [View Kubernetes Manifest Project](https://github.com/bisolaadebola/kubernetes-manifest)
 
+### 8. 🛍️ E-Commerce DevSecOps Platform
+
+Exploring a DevSecOps workflow for a containerized e-commerce application, with an emphasis on code quality, security integration, and automated delivery.
+
+**Technologies:** Docker | Kubernetes | GitHub Actions | SonarQube | Terraform | YAML | CI/CD
+
+**Learning objectives:**
+- Integrating code analysis into development workflows
+- Exploring security checks for application source code
+- Managing microservice deployment configurations
+- Troubleshooting CI/CD failures
+- Applying secure development and infrastructure automation practices
+
+*Project status: In progress.*
+
+🔗 Add your e-commerce repository URL here.
+
 ---
 
-## 📚 Certifications & Continuous Learning
+## 📜 Certifications & Professional Development
 
-My learning journey includes AWS cloud fundamentals, technical support, Linux, networking, containerization, Kubernetes, Terraform, GitOps, and CI/CD automation.
+### 🏆 Certifications
+- **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services  
+  [Verify my certification on Credly](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
+- **People Analytics Certificate** — Wharton, University of Pennsylvania (2025)
 
-I'm continuing to deepen my knowledge of:
-- AWS architecture, security, and cost management
-- Terraform and Infrastructure as Code best practices
-- Kubernetes operations and application delivery
-- GitOps with Argo CD
-- CI/CD pipeline design and automation
-- Monitoring, observability, and troubleshooting
-- Cloud security and infrastructure reliability
+### 📚 Technical Training
+- AWS Cloud Technical Essentials
+- Technical Support Fundamentals
+
+### 🌱 Continuous Learning
+I continue to expand my skills in cloud architecture, security, Terraform, Kubernetes, DevSecOps, CI/CD automation, monitoring, and troubleshooting through practical projects and continuous learning.
 
 ---
 
 ## 🎯 Career Focus
 
-I'm working toward opportunities in:
+I'm interested in opportunities in:
 
 - Cloud Engineering
+- AWS Cloud Support and Cloud Operations
 - DevOps Engineering
-- AWS Cloud Operations
+- DevSecOps Engineering
 - Infrastructure Engineering
 - Junior Platform Engineering
 - Site Reliability Engineering (SRE)
 
-I'm particularly interested in opportunities where I can contribute, learn from experienced engineers, and apply my practical skills in **AWS, Linux, Terraform, Docker, Kubernetes, CI/CD, and GitOps**.
+My background in Human Resources and People Operations brings additional strengths in communication, collaboration, coordination, documentation, and problem-solving.
 
-My background in HR and People Operations also brings experience in communication, collaboration, coordination, and problem-solving.
+I'm open to opportunities where I can contribute my practical cloud and automation skills while learning from experienced engineering teams.
 
 ---
 
 ## 🌱 My Approach to Learning
 
-**I learn by building.**
+**I learn by building, troubleshooting, and documenting.**
 
-I use hands-on projects to provision infrastructure, deploy applications, automate workflows, troubleshoot issues, and document technical solutions.
+I use hands-on projects to provision infrastructure, deploy applications, automate workflows, investigate failures, and document technical solutions.
 
-I believe that understanding how systems work—and being able to investigate when something goes wrong—is an important part of becoming a capable Cloud and DevOps Engineer.
+I believe that understanding how systems work—and knowing how to investigate when something goes wrong—is essential to becoming a capable Cloud and DevOps Engineer.
 
 ---
 
@@ -223,7 +293,8 @@ I believe that understanding how systems work—and being able to investigate wh
 
 - **LinkedIn:** [linkedin.com/in/bisolaadebola-acipm](https://www.linkedin.com/in/bisolaadebola-acipm)
 - **GitHub:** [github.com/bisolaadebola](https://github.com/bisolaadebola)
+- **AWS Certification:** [Verify on Credly](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
 
 ---
 
-### ☁️ Building. Deploying. Automating. Learning.
+### ☁️ Building. Deploying. Automating. Securing. Learning.
