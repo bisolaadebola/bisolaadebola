@@ -2,7 +2,9 @@
 
 ### ☁️ Cloud Engineer | AWS Certified Cloud Practitioner | DevOps | DevSecOps | Terraform | Kubernetes | CI/CD | GitOps
 
-[![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/bisolaadebola/bisolaadebola/main/aws-cloud-practitioner.png.png)](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
+<a href="https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url">
+  <img src="aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150">
+</a>
 
 **[Verify my AWS certification on Credly](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)**
 
@@ -135,7 +137,7 @@ Integrated source code quality analysis into a GitHub Actions workflow using Son
 - Troubleshooting YAML configuration and source paths
 - Integrating automated code analysis into development workflows
 
-🔗 **Repository:** https://github.com/bisolaadebola/terraform-sonarqube-aws.git.
+🔗 [View SonarQube Project](https://github.com/bisolaadebola/terraform-sonarqube-aws)
 
 ### 2. 🏗️ Terraform AWS VPC Infrastructure
 
@@ -241,13 +243,18 @@ Exploring a DevSecOps workflow for a containerized e-commerce application, with 
 
 *Project status: In progress.*
 
-🔗 Add your e-commerce repository URL here.
+🔗 [View E-Commerce Project](https://github.com/bisolaadebola/ecommerce-kubernetes-manifests)
 
 ---
 
 ## 📜 Certifications & Professional Development
 
 ### 🏆 Certifications
+
+<a href="https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url">
+  <img src="aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120">
+</a>
+
 - **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services  
   [Verify my certification on Credly](https://www.credly.com/badges/1658cbf6-b19f-4756-b40b-5cd27cd52dfe/public_url)
 - **People Analytics Certificate** — Wharton, University of Pennsylvania (2025)
