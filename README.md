@@ -228,23 +228,23 @@ Practised declarative Kubernetes resource management using YAML manifests for wo
 
 🔗 [View Kubernetes Manifest Project](https://github.com/bisolaadebola/kubernetes-manifest)
 
-### 8. 🛍️ E-Commerce DevSecOps Platform
+### 8. 🛍️ Astronomy Shop: 24-Microservice E-Commerce Platform
 
-Exploring a DevSecOps workflow for a containerized e-commerce application, with an emphasis on code quality, security integration, and automated delivery.
+Completed a three-phase AWS DevSecOps project to provision the cloud infrastructure, build and deploy a 24-microservice application, and monitor the running platform.
 
-**Technologies:** Docker | Kubernetes | GitHub Actions | SonarQube | Terraform | YAML | CI/CD
+**Infrastructure work:** Used Terraform to provision the AWS network and Amazon EKS cluster, including node groups, ingress and certificate components, persistent storage support, and Argo CD. Automated infrastructure checks and deployment with GitHub Actions, tfsec, SonarQube, and GitHub OIDC.
 
-**Learning objectives:**
-- Integrating code analysis into development workflows
-- Exploring security checks for application source code
-- Managing microservice deployment configurations
-- Troubleshooting CI/CD failures
-- Applying secure development and infrastructure automation practices
+**Application delivery:** Built and pushed 24 service images to Amazon ECR, then used Argo CD and Kubernetes manifests to deploy and reconcile the workloads on EKS.
 
-*Project status: In progress.*
+**Technologies:** AWS | Terraform | EKS | ECR | Kubernetes | Docker | GitHub Actions | GitHub OIDC | tfsec | SonarQube | Argo CD | GitOps
 
-🔗 [View E-Commerce Project](https://github.com/bisolaadebola/ecommerce-kubernetes-manifests)
+**Live application:** [shop.bfithub.store](https://shop.bfithub.store)
 
+**Project repositories:**
+- [AWS EKS infrastructure (Terraform)](https://github.com/bisolaadebola/ecommerce-eks-terraform-infrastructure)
+- [Application and ECR build pipeline](https://github.com/bisolaadebola/ecommerce-devsecops-platform)
+- [Kubernetes manifests and Argo CD GitOps deployment](https://github.com/bisolaadebola/ecommerce-kubernetes-manifests)
+- [Self-hosted SonarQube on AWS EC2](https://github.com/bisolaadebola/sonarqube-aws-ec2)
 ---
 
 ## 📜 Certifications & Professional Development
